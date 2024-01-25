@@ -1,0 +1,747 @@
+[
+	   {
+		"style": "ANIME",
+		"name": "1_ANIME_out.png",
+		"prompt": "A picture of a human student surrounded by books and studying diligently, symbolizing the dedication and discipline necessary to push oneself academically",
+        "width":  "1024",
+        "height": "1024"                       
+	    },
+       {
+		"style": "ANIME",
+		"name": "2_ANIME_out.png",
+		"prompt": "Young adult man with black messy hair halfway down the back, red eyes and red tattoos under eyes, sad face, black hoodie",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "ANIME",
+		"name": "3_ANIME_out.png",
+		"prompt": "A stylish haute couture outfit worn by model in the style of 90's vintage anime, surrealism, akira style. detailed line art. fine details",
+        "width": "1024",
+        "height": "1024"           
+	    },
+     {
+		"style": "ANIME",
+		"name": "4_ANIME_out.png",
+		"prompt": "Cameron Monaghan as spiderman, atey ghailan, studio ghibli, by jeremy mann, greg manchess, antonio moro, trending on artstation, trending on cgsociety, intricate, high detail, sharp focus, dramatic, photorealistic painting",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "ANIME",
+		"name": "5_ANIME_out.png",
+		"prompt": "A portrait character concept art, maid commander with flowing brunette hair red eyes, brutalist grimdark fantasy, kuudere noble dictator, trending pixiv fanbox, rule of thirds golden ratio, by greg rutkowski wlop makoto shinkai takashi takeuchi studio ghibli jamie wyeth",
+        "width": "1024",
+        "height": "1024"              
+	    },
+  	   {
+		"style": "UHD",
+		"name": "1_UHD_out.png",
+		"prompt": "Dangerous, young, Ottoman conqueror with full black uniform",
+        "width": "1024",
+        "height": "1024"
+             
+	    },
+       {
+		"style": "UHD",
+		"name": "2_UHD_out.png",
+		"prompt": "Group of laughing Scandinavian supermodels dancing at nightclub, cuteness overload, pigtails, burgundy, pink, red, gold, ruffles colorblock diveskin with hood, hooded longsleeve, one-piece rashguard, frills turtleneck velvet jumpsuit scifi uniform, contrast side-stripe catsuit with open-faced hood",
+        "width":  "1024",
+        "height": "1024"             
+	    },
+     {
+		"style": "UHD",
+		"name": "3_UHD_out.png",
+		"prompt": "A captivatingly beautiful Caucasian woman with long, silky, deep brown hair. His expressive look reveals a mystery. Her face, delicately sculpted, displays smooth features and flawless skin. Her soft, slightly pink lips complete her charming look",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "UHD",
+		"name": "4_UHD_out.png",
+		"prompt": "Vintage Medium Shot 1920's Poster, Futuristic electronik vintage police girl robot and office with robot effect on the face, 1820's, cozy interior lighting, artstation, detailed, cinematic, daz, hyper-realistic, octane, netflix lighting, with gun in hand",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "UHD",
+		"name": "5_UHD_out.png",
+		"prompt": "A computer science student in university of tampere in finland in 1990s",
+        "width": "1024",
+        "height": "1024"      
+	    },
+      {
+		"style": "CYBERPUNK",
+		"name": "1_CYBERPUNK_out.png",
+		"prompt": "n mascot robot, smiling, modern robot, round robot, cartoon, flying, super man pose, fist up, crypto coins background",
+        "width": "1024",
+        "height": "576"
+	    },
+       {
+		"style": "CYBERPUNK",
+		"name": "2_CYBERPUNK_out.png",
+		"prompt": "Once upon a time, in a small village, there lived two best friends named Lily and Max. They were both curious and loved going on adventures. One sunny morning, theyndecided to explore the nearby forest, which was said to be filled with magic",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "CYBERPUNK",
+		"name": "3_CYBERPUNK_out.png",
+		"prompt": "Chris Hemsworth with stylish look , beard, stylish hair , siting on a king chair with his hamour",
+        "width": "576",
+        "height": "1024"             
+	    },
+     {
+		"style": "CYBERPUNK",
+		"name": "4_CYBERPUNK_out.png",
+		"prompt": "A Viking warrior standing in the snow, holding an axe in one hand and leaning on it for support. The warrior is recovering from a fierce battle, with visible wounds on his face and armor",
+        "width":  "576",
+        "height": "1024"             
+	    },
+     {
+		"style": "CYBERPUNK",
+		"name": "5_CYBERPUNK_out.png",
+		"prompt": "A futuristic cityscape at sunset with towering skyscrapers",
+        "width": "1024",
+        "height": "1024"              
+	    },
+      {
+		"style": "KANDINSKY",
+		"name": "1_KANDINSKY_out.png",
+		"prompt": "A girl sat on the board in the river, soft white dress with long beautiful hair like thinking something",
+        "width": "576",
+        "height": "1024"                    
+	    },
+       {
+		"style": "KANDINSKY",
+		"name": "2_KANDINSKY_out.png",
+		"prompt": "Cookies with large piles of whipped cream, strawberries, peaches, chocolate drizzles by artist Ivan Pedro Muricy",
+        "width": "576",
+        "height": "1024"             
+	    },
+     {
+		"style": "KANDINSKY",
+		"name": "3_KANDINSKY_out.png",
+		"prompt": "A cozy cabin nestled in a snowy mountain landscape",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "KANDINSKY",
+		"name": "4_KANDINSKY_out.png",
+		"prompt": "A vibrant underwater scene with colorful coral reefs and tropical fish",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "KANDINSKY",
+		"name": "5_KANDINSKY_out.png",
+		"prompt": "An elegant ballroom with chandeliers and couples dancing",
+       "width": "1024",
+       "height": "1024"              
+	    },
+         {
+		"style": "AIVAZOVSKY",
+		"name": "1_AIVAZOVSKY_out.png",
+		"prompt": "A bustling market square with merchants selling exotic goods",
+        "width": "1024",
+        "height": "1024"             
+	    },
+       {
+		"style": "AIVAZOVSKY",
+		"name": "2_AIVAZOVSKY_out.png",
+		"prompt": "A magical forest glade illuminated by fireflies and moonlight",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "AIVAZOVSKY",
+		"name": "3_AIVAZOVSKY_out.png",
+		"prompt": "An epic battle scene between knights and dragons in a medieval setting",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "AIVAZOVSKY",
+		"name": "4_AIVAZOVSKY_out.png",
+		"prompt": "A whimsical scene of talking animals having a tea party",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "AIVAZOVSKY",
+		"name": "5_AIVAZOVSKY_out.png",
+		"prompt": "A serene beach sunset with palm trees and gentle waves",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "MALEVICH",
+		"name": "1_MALEVICH_out.png",
+		"prompt": "A hauntingly beautiful graveyard at dusk with mist and tombstones",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "MALEVICH",
+		"name": "2_MALEVICH_out.png",
+		"prompt": "A surreal dreamscape with floating islands and strange creatures",
+        "width": "1024",
+        "height": "680"
+	    },
+     {
+		"style": "MALEVICH",
+		"name": "3_MALEVICH_out.png",
+		"prompt": "A fantastical underwater city inhabited by merfolk and sea creatures",
+        "width": "1024",
+        "height": "680"
+	    },
+     {
+		"style": "MALEVICH",
+		"name": "4_MALEVICH_out.png",
+		"prompt": "An ancient temple hidden deep in the jungle, overrun by vines",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "MALEVICH",
+		"name": "5_MALEVICH_out.png",
+		"prompt": "A dynamic action scene of superheroes battling supervillains",
+        "width": "680",
+        "height": "1024"             
+	    },
+      {
+		"style": "PICASSO",
+		"name": "1_PICASSO_out.png",
+		"prompt": "A cyberpunk city with neon lights and futuristic architectures",
+        "width": "1024",
+        "height": "576"
+	    },
+       {
+		"style": "PICASSO",
+		"name": "2_PICASSO_out.png",
+		"prompt": "A peaceful countryside scene with rolling hills and a farm",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "PICASSO",
+		"name": "3_PICASSO_out.png",
+		"prompt": "A surreal interpretation of a famous historical event",
+        "width": "576",
+        "height": "1024"              
+	    },
+     {
+		"style": "PICASSO",
+		"name": "4_PICASSO_out.png",
+		"prompt": "A dramatic stormy seascape with crashing waves and lightning",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "PICASSO",
+		"name": "5_PICASSO_out.png",
+		"prompt": "A cozy library with bookshelves reaching to the ceiling",
+        "width": "1024",
+        "height": "1024"              
+	    },
+      {
+		"style": "PIXEL_ART",
+		"name": "1_PIXEL_ART_out.png",
+		"prompt": "An enchanted castle in the clouds accessible by a magical bridge",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "PIXEL_ART",
+		"name": "2_PIXEL_ART_out.png",
+		"prompt": "A serene Japanese garden with cherry blossoms and koi ponds",
+        "width": "680",
+        "height": "1024"             
+	    },
+     {
+		"style": "PIXEL_ART",
+		"name": "3_PIXEL_ART_out.png",
+		"prompt": "A bustling street market in a bustling foreign city",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "PIXEL_ART",
+		"name": "4_PIXEL_ART_out.png",
+		"prompt": "A peaceful countryside scene with a cottage and grazing sheeph",
+        "width": "1024",
+        "height": "1024"             
+	    },
+     {
+		"style": "PIXEL_ART",
+		"name": "5_PIXEL_ART_out.png",
+		"prompt": "A mystical desert oasis with a hidden treasure",
+        "width":  "1024",
+        "height": "1024"             
+	    },
+     
+      {
+		"style": "CLASSICISM",
+		"name": "1_CLASSICISM_out.png",
+		"prompt": "A spooky haunted house with creaking floors and ghostly figures",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "CLASSICISM",
+		"name": "2_CLASSICISM_out.png",
+		"prompt": "A tranquil lakeside cabin with a rowboat on the water",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "CLASSICISM",
+		"name": "3_CLASSICISM_out.png",
+		"prompt": "A surreal representation of a famous work of literature",
+        "width": "1024",
+        "height": "1024"             
+	    },
+     {
+		"style": "CLASSICISM",
+		"name": "4_CLASSICISM_out.png",
+		"prompt": "An extravagant masquerade ball with ornate masks and costumes",
+        "width":  "576",
+        "height": "1024"             
+	    },
+     {
+		"style": "CLASSICISM",
+		"name": "5_CLASSICISM_out.png",
+		"prompt": "A vibrant and lively carnival with rides and games",
+        "width": "1024",
+        "height": "1024"             
+	    },
+      {
+		"style": "DEFAULT",
+		"name": "1_DEFAULT_out.png",
+		"prompt": "An eerie abandoned amusement park with decaying rides",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "DEFAULT",
+		"name": "2_DEFAULT_out.png",
+		"prompt": "A celestial scene with planets, stars, and galaxies",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "3_DEFAULT_out.png",
+		"prompt": "A futuristic transportation hub with flying cars and hoverboards",
+        "width": "1024",
+        "height": "680"
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "4_DEFAULT_out.png",
+		"prompt": "A mystical forest with towering ancient trees and glowing mushrooms",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "5_DEFAULT_out.png",
+		"prompt": "A surreal cityscape where buildings defy gravity and physics",
+        "width": "680",
+        "height": "1024"              
+	    },
+      {
+		"style": "DEFAULT",
+		"name": "6_DEFAULT_out.png",
+		"prompt": "A serene monastery atop a mountain peak",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "DEFAULT",
+		"name": "7_DEFAULT_out.png",
+		"prompt": "An underwater research station exploring the mysteries of the deep",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "8_DEFAULT_out.png",
+		"prompt": "A dramatic volcanic eruption with molten lava and ash",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "9_DEFAULT_out.png",
+		"prompt": "An alternate history scene where a famous event took a different turn",
+        "width": "1024",
+        "height": "1024"             
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "10_DEFAULT_out.png",
+		"prompt": "A cozy winter cabin with a roaring fireplace",
+        "width": "1024",
+        "height": "1024"             
+	    },
+{
+		"style": "OILPAINTING",
+		"name": "1_OILPAINTING_out.png",
+		"prompt": "A time-traveling adventure with characters from different eras",
+        "width": "1024",
+        "height": "576"
+	    },
+       {
+		"style": "OILPAINTING",
+		"name": "2_OILPAINTING_out.png",
+		"prompt": "A tranquil riverside village with thatched-roof cottages",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "OILPAINTING",
+		"name": "3_OILPAINTING_out.png",
+		"prompt": "A whimsical candyland with giant sweets and sugary landscapese",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "OILPAINTING",
+		"name": "4_OILPAINTING_out.png",
+		"prompt": "an alternate reality where animals are the dominant species",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "OILPAINTING",
+		"name": "5_OILPAINTING_out.png",
+		"prompt": "A dramatic sunset over a majestic mountain range",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+  {
+		"style": "PENCILDRAWING",
+		"name": "1_PENCILDRAWING_out.png",
+		"prompt": "A magical academy with towers and turrets",
+        "width": "1024",
+        "height": "680"
+              
+	    },
+       {
+		"style": "PENCILDRAWING",
+		"name": "2_PENCILDRAWING_out.png",
+		"prompt": "A futuristic sports arena where new and unique games are played",
+        "width": "1024",
+        "height": "680"
+              
+	    },
+     {
+		"style": "PENCILDRAWING",
+		"name": "3_PENCILDRAWING_out.png",
+		"prompt": "A surreal dreamscape inspired by a famous artist's style",
+        "width": "1024",
+        "height": "680"
+              
+	    },
+     {
+		"style": "PENCILDRAWING",
+		"name": "4_PENCILDRAWING_out.png",
+		"prompt": "A serene Zen garden with carefully raked gravel and stone arrangements",
+        "width": "1024",
+        "height": "680"
+              
+	    },
+     {
+		"style": "PENCILDRAWING",
+		"name": "5_PENCILDRAWING_out.png",
+		"prompt": "A thrilling space battle between starships and alien invaders",
+        "width": "1024",
+        "height": "680"
+	    },
+  {
+		"style": "DIGITALPAINTING",
+		"name": "1_DIGITALPAINTING_out.png",
+		"prompt": "A vibrant and bustling futuristic market district",
+        "width": "680",
+        "height": "1024"
+              
+	    },
+       {
+		"style": "DIGITALPAINTING",
+		"name": "2_DIGITALPAINTING_out.png",
+		"prompt": "A mysterious and atmospheric moonlit forest",
+        "width": "680",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "DIGITALPAINTING",
+		"name": "3_DIGITALPAINTING_out.png",
+		"prompt": "A steampunk submarine exploring the depths of the ocean",
+        "width": "680",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "DIGITALPAINTING",
+		"name": "4_DIGITALPAINTING_out.png",
+		"prompt": "A tranquil vineyard with rows of grapevines",
+        "width": "680",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "DIGITALPAINTING",
+		"name": "5_DIGITALPAINTING_out.png",
+		"prompt": "A dramatic and stormy sky with lightning and dark clouds",
+        "width": "680",
+        "height": "1024"
+              
+	    },
+       {
+		"style": "DEFAULT",
+		"name": "11_DEFAULT_out.png",
+		"prompt": "A futuristic space colony on a distant planet",
+        "width": "517",
+        "height": "517"
+              
+	    },
+       {
+		"style": "DEFAULT",
+		"name": "12_DEFAULT_out.png",
+		"prompt": "A whimsical and fantastical carousel with magical creatures",
+        "width": "517",
+        "height": "517"
+              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "13_DEFAULT_out.png",
+		"prompt": "A bustling and lively medieval village festival",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "14_DEFAULT_out.png",
+		"prompt": "A surreal representation of a well-known myth or legend",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "DEFAULT",
+		"name": "15_DEFAULT_out.png",
+		"prompt": "A floating city suspended by giant balloons",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+      {
+		"style": "CARTOON",
+		"name": "1_CARTOON_out.png",
+		"prompt": "An ancient ruin hidden in a dense jungle",
+        "width": "576",
+        "height": "1024"
+              
+	    },
+       {
+		"style": "CARTOON",
+		"name": "2_CARTOON_out.png",
+		"prompt": "A magical forest inhabited by mythical creatures",
+        "width": "576",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "CARTOON",
+		"name": "3_CARTOON_out.png",
+		"prompt": "A surreal dreamscape inspired by a specific color palette",
+        "width": "576",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "CARTOON",
+		"name": "4_CARTOON_out.png",
+		"prompt": "A bustling and vibrant interstellar bazaar",
+        "width": "576",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "CARTOON",
+		"name": "5_CARTOON_out.png",
+		"prompt": "A grand and opulent palace with intricate architecture",
+        "width": "576",
+        "height": "1024"
+              
+	    },
+      {
+		"style": "RENDER",
+		"name": "1_RENDER_out.png",
+		"prompt": "A whimsical and fantastical treehouse village",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+       {
+		"style": "RENDER",
+		"name": "2_RENDER_out.png",
+		"prompt": "A locomotive racing through a scenic landscape",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "RENDER",
+		"name": "3_RENDER_out.png",
+		"prompt": "A surreal dreamscape with floating islands and waterfalls",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "RENDER",
+		"name": "4_RENDER_out.png",
+		"prompt": "A futuristic space station orbiting a distant planet",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "RENDER",
+		"name": "5_RENDER_out.png",
+		"prompt": "A serene and idyllic countryside picnic",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+      {
+		"style": "RENDER",
+		"name": "6_RENDER_out.png",
+		"prompt": "A dramatic and intense battle scene from a fictional war",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+       {
+		"style": "STUDIOPHOTO",
+		"name": "1_STUDIOPHOTO_out.png",
+		"prompt": "Analog style Close-up portrait of a miserable-looking peasant with a sad, expressive, and detailed face and eyes, picking mushrooms in a sinister, eerie forest",
+        "width": "1024",
+        "height": "576"
+	    },
+     
+     {
+		"style": "STUDIOPHOTO",
+		"name": "2_STUDIOPHOTO_out.png",
+		"prompt": "Highly detailed, beautiful portrait of Madonna, cinematic lighting, dramatic lighting",
+        "width": "1024",
+        "height": "576"
+	    },
+     {
+		"style": "STUDIOPHOTO",
+		"name": "3_STUDIOPHOTO_out.png",
+		"prompt": "Botanical drawing, roses and onions, colored ink drawing, pale colours, high detail, intricately detailed, hyperdetailed volumetric lighting",
+        "width": "1024",
+        "height": "576"
+	    },
+
+      {
+		"style": "PORTRAITPHOTO",
+		"name": "1_PORTRAITPHOTO_out.png",
+		"prompt": "A candid portrait, capturing the subject in a candid moment of laughter or contemplation, portraying their genuine emotion",
+        "width": "1024",
+        "height": "1024"              
+	    },
+       {
+		"style": "PORTRAITPHOTO",
+		"name": "2_PORTRAITPHOTO_out.png",
+		"prompt": "A high-fashion portrait with bold makeup and stylish accessories, exuding confidence and elegance",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+     {
+		"style": "PORTRAITPHOTO",
+		"name": "3_PORTRAITPHOTO_out.png",
+		"prompt": "A vibrant and colorful portrait, showcasing the subject's personality through dynamic poses and lively expressions",
+        "width": "1024",
+        "height": "1024"              
+	    },
+     {
+		"style": "PORTRAITPHOTO",
+		"name": "4_PORTRAITPHOTO_out.png",
+		"prompt": "A portrait in monochromatic tones, focusing on the subject's profile and capturing their unique facial contours",
+        "width": "1024",
+        "height": "1024"             
+	    },
+     {
+		"style": "PORTRAITPHOTO",
+		"name": "5_PORTRAITPHOTO_out.png",
+		"prompt": "A stunning view of a red sand desert, with dunes stretching into the distance and a clear blue sky above",
+        "width": "1024",
+        "height": "1024"
+              
+	    },
+      {
+		"style": "KHOKHLOMA",
+		"name": "1_KHOKHLOMA_out.png",
+		"prompt": "A traditional Russian tea set",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+       {
+		"style": "KHOKHLOMA",
+		"name": "2_KHOKHLOMA_out.png",
+		"prompt": "A set of nesting dolls",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "KHOKHLOMA",
+		"name": "3_KHOKHLOMA_out.png",
+		"prompt": "An ornate wooden mirror frame adorned",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "CRISTMAS",
+		"name": "1_CRISTMAS_out.png",
+		"prompt": "A whimsical and enchanting village inhabited by magical creatures",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+     {
+		"style": "CRISTMAS",
+		"name": "2_CRISTMAS_out.png",
+		"prompt": "Futuristic city with advanced transportation systems",
+        "width": "1024",
+        "height": "576"
+              
+	    },
+	{
+		"style": "CRISTMAS",
+		"name": "3_CRISTMAS_out.png",
+		"prompt": "A heartwarming scene of a snowy winter night with a gingerbread house adorned with twinkling lights. Capture the joyous spirit of the holidays as families gather around, exchanging gifts and laughter in the cozy glow of the festive season",
+		"width": "1024",
+		"height": "680"
+				  
+		}
+
+]
